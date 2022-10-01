@@ -1,5 +1,5 @@
 #include <WiFi.h>
-#include "secret.h" //Own Made library including all the blynk and DHT code.
+#include "main.h" //Own Made library including all the blynk and DHT code.
 
 void setup()
 {
