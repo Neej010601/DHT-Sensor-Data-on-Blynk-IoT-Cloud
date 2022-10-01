@@ -1,5 +1,5 @@
-#ifndef SECRET_H_
-#define SECRET_H_
+#ifndef MAIN_H_
+#define MAIN_H_
 
 #define BLYNK_TEMPLATE_ID "TMPL_Yq5F5Xs" //blynk function
 #define BLYNK_DEVICE_NAME "Home Automation" //blynk function
